@@ -1,0 +1,176 @@
+USER       PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+root         1  0.0  0.6 128132  6188 ?        Ss   Nov15   2:33 /usr/lib/systemd/systemd --switched-root --system --deserialize 22
+root         2  0.0  0.0      0     0 ?        S    Nov15   0:00 [kthreadd]
+root         4  0.0  0.0      0     0 ?        S<   Nov15   0:00 [kworker/0:0H]
+root         6  0.0  0.0      0     0 ?        S    Nov15   0:26 [ksoftirqd/0]
+root         7  0.0  0.0      0     0 ?        S    Nov15   0:00 [migration/0]
+root         8  0.0  0.0      0     0 ?        S    Nov15   0:00 [rcu_bh]
+root         9  0.0  0.0      0     0 ?        R    Nov15   0:33 [rcu_sched]
+root        10  0.0  0.0      0     0 ?        S<   Nov15   0:00 [lru-add-drain]
+root        11  0.0  0.0      0     0 ?        S    Nov15   0:13 [watchdog/0]
+root        13  0.0  0.0      0     0 ?        S    Nov15   0:00 [kdevtmpfs]
+root        14  0.0  0.0      0     0 ?        S<   Nov15   0:00 [netns]
+root        15  0.0  0.0      0     0 ?        S    Nov15   0:02 [khungtaskd]
+root        16  0.0  0.0      0     0 ?        S<   Nov15   0:00 [writeback]
+root        17  0.0  0.0      0     0 ?        S<   Nov15   0:00 [kintegrityd]
+root        18  0.0  0.0      0     0 ?        S<   Nov15   0:00 [bioset]
+root        19  0.0  0.0      0     0 ?        S<   Nov15   0:00 [bioset]
+root        20  0.0  0.0      0     0 ?        S<   Nov15   0:00 [bioset]
+root        21  0.0  0.0      0     0 ?        S<   Nov15   0:00 [kblockd]
+root        22  0.0  0.0      0     0 ?        S<   Nov15   0:00 [md]
+root        23  0.0  0.0      0     0 ?        S<   Nov15   0:00 [edac-poller]
+root        24  0.0  0.0      0     0 ?        S<   Nov15   0:00 [watchdogd]
+root        30  0.0  0.0      0     0 ?        S    Nov15   0:00 [kswapd0]
+root        31  0.0  0.0      0     0 ?        SN   Nov15   0:00 [ksmd]
+root        32  0.0  0.0      0     0 ?        SN   Nov15   0:12 [khugepaged]
+root        33  0.0  0.0      0     0 ?        S<   Nov15   0:00 [crypto]
+root        41  0.0  0.0      0     0 ?        S<   Nov15   0:00 [kthrotld]
+root        43  0.0  0.0      0     0 ?        S<   Nov15   0:00 [kmpath_rdacd]
+root        44  0.0  0.0      0     0 ?        S<   Nov15   0:00 [kaluad]
+root        45  0.0  0.0      0     0 ?        S<   Nov15   0:00 [kpsmoused]
+root        47  0.0  0.0      0     0 ?        S<   Nov15   0:00 [ipv6_addrconf]
+root        60  0.0  0.0      0     0 ?        S<   Nov15   0:00 [deferwq]
+root        96  0.0  0.0      0     0 ?        S    Nov15   0:00 [kauditd]
+root       268  0.0  0.0      0     0 ?        S    Nov15   0:00 [scsi_eh_0]
+root       271  0.0  0.0      0     0 ?        S<   Nov15   0:00 [scsi_tmf_0]
+root       273  0.0  0.0      0     0 ?        S<   Nov15   0:00 [vmw_pvscsi_wq_0]
+root       277  0.0  0.0      0     0 ?        S<   Nov15   0:00 [nfit]
+root       279  0.0  0.0      0     0 ?        S<   Nov15   0:00 [ata_sff]
+root       281  0.0  0.0      0     0 ?        S    Nov15   0:00 [scsi_eh_1]
+root       282  0.0  0.0      0     0 ?        S<   Nov15   0:00 [scsi_tmf_1]
+root       283  0.0  0.0      0     0 ?        S    Nov15   0:00 [scsi_eh_2]
+root       284  0.0  0.0      0     0 ?        S<   Nov15   0:00 [scsi_tmf_2]
+root       297  0.0  0.0      0     0 ?        S    Nov15   0:00 [scsi_eh_3]
+root       299  0.0  0.0      0     0 ?        S<   Nov15   0:00 [scsi_tmf_3]
+root       300  0.0  0.0      0     0 ?        S    Nov15   0:00 [scsi_eh_4]
+root       301  0.0  0.0      0     0 ?        S<   Nov15   0:00 [scsi_tmf_4]
+root       302  0.0  0.0      0     0 ?        S    Nov15   0:00 [scsi_eh_5]
+root       303  0.0  0.0      0     0 ?        S<   Nov15   0:00 [scsi_tmf_5]
+root       304  0.0  0.0      0     0 ?        S    Nov15   0:00 [scsi_eh_6]
+root       306  0.0  0.0      0     0 ?        S<   Nov15   0:00 [scsi_tmf_6]
+root       307  0.0  0.0      0     0 ?        S    Nov15   0:00 [scsi_eh_7]
+root       309  0.0  0.0      0     0 ?        S<   Nov15   0:00 [scsi_tmf_7]
+root       310  0.0  0.0      0     0 ?        S    Nov15   0:00 [scsi_eh_8]
+root       311  0.0  0.0      0     0 ?        S<   Nov15   0:00 [scsi_tmf_8]
+root       312  0.0  0.0      0     0 ?        S    Nov15   0:00 [scsi_eh_9]
+root       313  0.0  0.0      0     0 ?        S<   Nov15   0:00 [scsi_tmf_9]
+root       314  0.0  0.0      0     0 ?        S    Nov15   0:00 [scsi_eh_10]
+root       315  0.0  0.0      0     0 ?        S<   Nov15   0:00 [scsi_tmf_10]
+root       316  0.0  0.0      0     0 ?        S    Nov15   0:00 [scsi_eh_11]
+root       317  0.0  0.0      0     0 ?        S<   Nov15   0:00 [scsi_tmf_11]
+root       319  0.0  0.0      0     0 ?        S    Nov15   0:00 [scsi_eh_12]
+root       320  0.0  0.0      0     0 ?        S<   Nov15   0:00 [scsi_tmf_12]
+root       321  0.0  0.0      0     0 ?        S    Nov15   0:00 [scsi_eh_13]
+root       322  0.0  0.0      0     0 ?        S<   Nov15   0:00 [scsi_tmf_13]
+root       323  0.0  0.0      0     0 ?        S    Nov15   0:00 [scsi_eh_14]
+root       324  0.0  0.0      0     0 ?        S<   Nov15   0:00 [scsi_tmf_14]
+root       325  0.0  0.0      0     0 ?        S    Nov15   0:00 [scsi_eh_15]
+root       327  0.0  0.0      0     0 ?        S<   Nov15   0:00 [scsi_tmf_15]
+root       328  0.0  0.0      0     0 ?        S    Nov15   0:00 [scsi_eh_16]
+root       329  0.0  0.0      0     0 ?        S<   Nov15   0:00 [scsi_tmf_16]
+root       330  0.0  0.0      0     0 ?        S    Nov15   0:00 [scsi_eh_17]
+root       332  0.0  0.0      0     0 ?        S<   Nov15   0:00 [scsi_tmf_17]
+root       333  0.0  0.0      0     0 ?        S    Nov15   0:00 [scsi_eh_18]
+root       334  0.0  0.0      0     0 ?        S<   Nov15   0:00 [scsi_tmf_18]
+root       335  0.0  0.0      0     0 ?        S    Nov15   0:00 [irq/16-vmwgfx]
+root       336  0.0  0.0      0     0 ?        S    Nov15   0:00 [scsi_eh_19]
+root       337  0.0  0.0      0     0 ?        S<   Nov15   0:00 [ttm_swap]
+root       339  0.0  0.0      0     0 ?        S<   Nov15   0:00 [scsi_tmf_19]
+root       340  0.0  0.0      0     0 ?        S    Nov15   0:00 [scsi_eh_20]
+root       342  0.0  0.0      0     0 ?        S<   Nov15   0:00 [scsi_tmf_20]
+root       343  0.0  0.0      0     0 ?        S    Nov15   0:00 [scsi_eh_21]
+root       345  0.0  0.0      0     0 ?        S<   Nov15   0:00 [scsi_tmf_21]
+root       346  0.0  0.0      0     0 ?        S    Nov15   0:00 [scsi_eh_22]
+root       348  0.0  0.0      0     0 ?        S<   Nov15   0:00 [scsi_tmf_22]
+root       349  0.0  0.0      0     0 ?        S    Nov15   0:00 [scsi_eh_23]
+root       351  0.0  0.0      0     0 ?        S<   Nov15   0:00 [scsi_tmf_23]
+root       353  0.0  0.0      0     0 ?        S    Nov15   0:00 [scsi_eh_24]
+root       355  0.0  0.0      0     0 ?        S<   Nov15   0:00 [scsi_tmf_24]
+root       357  0.0  0.0      0     0 ?        S    Nov15   0:00 [scsi_eh_25]
+root       359  0.0  0.0      0     0 ?        S<   Nov15   0:00 [scsi_tmf_25]
+root       362  0.0  0.0      0     0 ?        S    Nov15   0:00 [scsi_eh_26]
+root       363  0.0  0.0      0     0 ?        S<   Nov15   0:00 [scsi_tmf_26]
+root       365  0.0  0.0      0     0 ?        S    Nov15   0:00 [scsi_eh_27]
+root       366  0.0  0.0      0     0 ?        S<   Nov15   0:00 [scsi_tmf_27]
+root       368  0.0  0.0      0     0 ?        S    Nov15   0:00 [scsi_eh_28]
+root       370  0.0  0.0      0     0 ?        S<   Nov15   0:00 [scsi_tmf_28]
+root       371  0.0  0.0      0     0 ?        S    Nov15   0:00 [scsi_eh_29]
+root       372  0.0  0.0      0     0 ?        S<   Nov15   0:00 [scsi_tmf_29]
+root       374  0.0  0.0      0     0 ?        S    Nov15   0:00 [scsi_eh_30]
+root       376  0.0  0.0      0     0 ?        S<   Nov15   0:00 [scsi_tmf_30]
+root       377  0.0  0.0      0     0 ?        S    Nov15   0:00 [scsi_eh_31]
+root       379  0.0  0.0      0     0 ?        S<   Nov15   0:00 [scsi_tmf_31]
+root       380  0.0  0.0      0     0 ?        S    Nov15   0:00 [scsi_eh_32]
+root       382  0.0  0.0      0     0 ?        S<   Nov15   0:00 [scsi_tmf_32]
+root       418  0.0  0.0      0     0 ?        S<   Nov15   0:20 [kworker/0:1H]
+root       459  0.0  0.0      0     0 ?        S<   Nov15   0:00 [kdmflush]
+root       460  0.0  0.0      0     0 ?        S<   Nov15   0:00 [bioset]
+root       470  0.0  0.0      0     0 ?        S<   Nov15   0:00 [kdmflush]
+root       471  0.0  0.0      0     0 ?        S<   Nov15   0:00 [bioset]
+root       483  0.0  0.0      0     0 ?        S<   Nov15   0:00 [bioset]
+root       484  0.0  0.0      0     0 ?        S<   Nov15   0:00 [xfsalloc]
+root       485  0.0  0.0      0     0 ?        S<   Nov15   0:00 [xfs_mru_cache]
+root       486  0.0  0.0      0     0 ?        S<   Nov15   0:00 [xfs-buf/dm-0]
+root       487  0.0  0.0      0     0 ?        S<   Nov15   0:00 [xfs-data/dm-0]
+root       488  0.0  0.0      0     0 ?        S<   Nov15   0:00 [xfs-conv/dm-0]
+root       489  0.0  0.0      0     0 ?        S<   Nov15   0:00 [xfs-cil/dm-0]
+root       490  0.0  0.0      0     0 ?        S<   Nov15   0:00 [xfs-reclaim/dm-]
+root       491  0.0  0.0      0     0 ?        S<   Nov15   0:00 [xfs-log/dm-0]
+root       492  0.0  0.0      0     0 ?        S<   Nov15   0:00 [xfs-eofblocks/d]
+root       493  0.0  0.0      0     0 ?        S    Nov15   6:05 [xfsaild/dm-0]
+root       572  0.0  0.2  37212  2104 ?        Ss   Nov15   0:59 /usr/lib/systemd/systemd-journald
+root       591  0.0  0.2 192908  2688 ?        Ss   Nov15   0:00 /usr/sbin/lvmetad -f
+root       610  0.0  0.3  48284  3348 ?        Ss   Nov15   0:00 /usr/lib/systemd/systemd-udevd
+root       690  0.0  0.0      0     0 ?        S<   Nov15   0:00 [xfs-buf/sda1]
+root       692  0.0  0.0      0     0 ?        S<   Nov15   0:00 [xfs-data/sda1]
+root       694  0.0  0.0      0     0 ?        S<   Nov15   0:00 [xfs-conv/sda1]
+root       695  0.0  0.0      0     0 ?        S<   Nov15   0:00 [xfs-cil/sda1]
+root       696  0.0  0.0      0     0 ?        S<   Nov15   0:00 [xfs-reclaim/sda]
+root       698  0.0  0.0      0     0 ?        S<   Nov15   0:00 [xfs-log/sda1]
+root       700  0.0  0.0      0     0 ?        S<   Nov15   0:00 [xfs-eofblocks/s]
+root       701  0.0  0.0      0     0 ?        S    Nov15   0:00 [xfsaild/sda1]
+root       743  0.0  0.0  55532   852 ?        S<sl Nov15   0:04 /sbin/auditd
+root       766  0.0  0.5 228384  5744 ?        Ss   Nov15   0:00 /usr/sbin/abrtd -d -s
+dbus       768  0.0  0.2  88104  2808 ?        Ssl  Nov15   1:28 /usr/bin/dbus-daemon --system --address=systemd: --nofork --nopidfile --systemd-activation
+rpc        770  0.0  0.0  69256  1004 ?        Ss   Nov15   0:05 /sbin/rpcbind -w
+polkitd    772  0.0  1.2 625872 12504 ?        Ssl  Nov15   0:08 /usr/lib/polkit-1/polkitd --no-debug
+libstor+   774  0.0  0.0   8580   828 ?        Ss   Nov15   0:07 /usr/bin/lsmd -d
+root       779  0.0  0.3  90608  3196 ?        Ss   Nov15   1:38 /sbin/rngd -f
+root       780  0.0  0.4 225868  4796 ?        Ss   Nov15   0:16 /usr/bin/abrt-watch-log -F BUG: WARNING: at WARNING: CPU: INFO: possible recursive locking detected ernel BUG at list_del corruption list_add corruption do_IRQ: stack overflow: ear stack overflow (cur: eneral protection fault nable to handle kernel ouble fault: RTNL: assertion failed eek! page_mapcount(page) went negative! adness at NETDEV WATCHDOG ysctl table check failed : nobody cared IRQ handler type mismatch Kernel panic - not syncing: Machine Check Exception: Machine check events logged divide error: bounds: coprocessor segment overrun: invalid TSS: segment not present: invalid opcode: alignment check: stack segment: fpu exception: simd exception: iret exception: /var/log/messages -- /usr/bin/abrt-dump-oops -xtD
+root       782  0.0  0.5 268540  5136 ?        Ss   Nov15   0:04 /usr/sbin/sssd -i --logger=files
+root       785  0.0  0.2  52792  2752 ?        Ss   Nov15   0:02 /usr/sbin/smartd -n -q never
+root       789  0.0  0.4 168148  4972 ?        Ss   Nov15   0:00 /usr/bin/VGAuthService -s
+root       790  0.1  0.4 285776  4968 ?        Ssl  Nov15  35:03 /usr/bin/vmtoolsd
+chrony     797  0.0  0.1 117808  1848 ?        S    Nov15   0:05 /usr/sbin/chronyd
+root       819  0.0  3.3 363092 33708 ?        Ssl  Nov15   0:06 /usr/bin/python2 -Es /usr/sbin/firewalld --nofork --nopid
+root       824  0.0  7.1 584348 72536 ?        S    Nov15  17:31 /usr/libexec/sssd/sssd_be --domain derek.local --uid 0 --gid 0 --logger=files
+root       832  0.0  0.7 277164  7256 ?        S    Nov15   0:26 /usr/libexec/sssd/sssd_nss --uid 0 --gid 0 --logger=files
+root       833  0.0  0.5 263592  6088 ?        S    Nov15   0:25 /usr/libexec/sssd/sssd_pam --uid 0 --gid 0 --logger=files
+root       834  0.0  0.1  37088  1832 ?        Ss   Nov15   0:39 /usr/lib/systemd/systemd-logind
+root       837  0.0  0.1 126392  1644 ?        Ss   Nov15   0:11 /usr/sbin/crond -n
+root       840  0.0  0.0  25908   932 ?        Ss   Nov15   0:00 /usr/sbin/atd -f
+root       844  0.0  0.8 548112  8792 ?        Ssl  Nov15   0:55 /usr/sbin/NetworkManager --no-daemon
+root      1159  0.0  1.8 528408 18804 ?        Ss   Nov15   2:38 /usr/sbin/httpd -DFOREGROUND
+root      1161  0.0  0.4 112940  4368 ?        Ss   Nov15   0:00 /usr/sbin/sshd -D
+root      1162  0.0  0.2  52708  2224 ?        Ss   Nov15   0:00 /usr/sbin/oddjobd -n -p /var/run/oddjobd.pid -t 300
+root      1164  0.0  1.7 574292 17412 ?        Ssl  Nov15   5:15 /usr/bin/python2 -Es /usr/sbin/tuned -l -P
+root      1166  0.0  0.6 265304  6200 ?        Ssl  Nov15   2:45 /usr/sbin/rsyslogd -n
+mysql     1222  0.0  0.1 113416  1536 ?        Ss   Nov15   0:00 /bin/sh /usr/bin/mysqld_safe --basedir=/usr
+mysql     1441  0.0  9.0 1036872 91660 ?       Sl   Nov15  21:35 /usr/libexec/mysqld --basedir=/usr --datadir=/var/lib/mysql --plugin-dir=/usr/lib64/mysql/plugin --log-error=/var/log/mariadb/mariadb.log --pid-file=/var/run/mariadb/mariadb.pid --socket=/var/lib/mysql/mysql.sock
+root      1610  0.0  0.2  91832  2228 ?        Ss   Nov15   0:15 /usr/libexec/postfix/master -w
+postfix   1620  0.0  0.4 102888  4188 ?        S    Nov15   0:04 qmgr -l -t unix -u
+root      1700  0.0  0.4 151588  4164 ?        Ss   Nov15   0:00 login -- derek
+derek     1717  0.0  0.2 116344  2884 tty1     Ss   Nov15   0:00 -bash
+root      7437  0.0  0.0      0     0 ?        S    17:40   0:00 [kworker/u2:2]
+root      7695  0.0  0.0      0     0 ?        S    18:45   0:00 [kworker/0:1]
+root      7770  0.0  0.0      0     0 ?        S    19:01   0:00 [kworker/0:0]
+root      7894  0.0  0.0      0     0 ?        S    19:05   0:00 [kworker/u2:0]
+root      7923  0.1  0.0      0     0 ?        S    19:06   0:00 [kworker/0:2]
+postfix   7952  0.0  0.4 102712  4104 ?        S    19:09   0:00 pickup -l -t unix -u
+derek     7963  0.0  0.1 166156  1920 tty1     R+   19:10   0:00 ps -aux
+root     23511  0.0  0.0      0     0 ?        S    Nov29   0:06 [kworker/u2:1]
+apache   24368  0.0  0.9 541268  9716 ?        S    Dec05   0:00 /usr/sbin/httpd -DFOREGROUND
+apache   24369  0.0  0.9 541268  9716 ?        S    Dec05   0:00 /usr/sbin/httpd -DFOREGROUND
+apache   24370  0.0  0.9 541268  9716 ?        S    Dec05   0:00 /usr/sbin/httpd -DFOREGROUND
+apache   24372  0.0  0.9 541268  9716 ?        S    Dec05   0:00 /usr/sbin/httpd -DFOREGROUND
+apache   24373  0.0  0.9 541268  9716 ?        S    Dec05   0:00 /usr/sbin/httpd -DFOREGROUND
